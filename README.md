@@ -13,15 +13,15 @@ Entre o ponto central e a portinhola, um pequeno alçapão serve de apoio para o
 
 # Scripts
 
-Os scripts de códigos comentados encontram-se no caminho "Marble Task v1.0\Assets\Scripts" do repositório.
+Os scripts de códigos comentados encontram-se no caminho "Assets\Scripts" do repositório.
 
 # Imagens
 
-As imagens encontram-se em "Marble Task v1.0\Assets\Imagens".
+As imagens encontram-se em "Assets\Imagens".
 
 # Cenas
 
-As cenas encontram-se em "Marble Task v1.0\Assets\Scenes".
+As cenas encontram-se em "Assets\Scenes".
 
 # Funcionamento
 
