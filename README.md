@@ -25,15 +25,15 @@ As cenas encontram-se em "Assets\Scenes".
 
 # Funcionamento
 
-A aplicação inicia-se com a Tela de Configurações, em que diz respeito a entrada de parâmetros para uma jogada. As escolhas dos parâmetros são definidas pelo orientador. As informações que devem ser preenchidas são:
+A aplicação inicia com a Tela de Configurações, que diz respeito à entrada de parâmetros para uma jogada. As escolhas dos parâmetros são definidas pelo orientador. As informações que devem ser preenchidas são:
 
 -	Nome do Experimentador: refere-se ao nome do indivíduo que irá conduzir aquela jogada.
 -	Nome do Sujeito: refere-se ao nome do indivíduo que será submetido a jogada.
--	Data de Nascimento: diz respeito a data de nascimento do sujeito em formato numérico dd/mm/aaaa (onde dd, representa os dois dígitos referentes ao dia, mm refere-se aos dois dígitos do mês e aaaa refere-se aos 4 dígitos do ano de nascimento).
+-	Data de Nascimento: refere-se à data de nascimento do sujeito em formato numérico dd/mm/aaaa (onde dd, representa os dois dígitos referentes ao dia, mm refere-se aos dois dígitos do mês e aaaa refere-se aos 4 dígitos do ano de nascimento).
 -	Número de tentativas: refere-se à quantidade de tentativas naquela jogada. A entrada de dados deve ser um número inteiro não negativo.
 -	Treino: especifica se haverá uma cena de treino. Por padrão, a opção selecionada é não, podendo ser alterada para Sim caso seja determinado que haverá um treino naquela jogada.
 -	Sexo: refere-se ao sexo do sujeito. As opções são: Masculino e Feminino.
--	Lateralidade: diz respeito a mão que será utilizada para as tentativas. Podendo escolher Mão Direita ou Mão Esquerda.
+-	Lateralidade: diz respeito a mão que será utilizada para as tentativas, podendo escolher Mão Direita ou Mão Esquerda.
 -	Obstáculo: define o lado que o obstáculo da cena principal, podendo ser: Lado Direito, Lado Esquerdo ou Pseudoaleatório.
 
 
@@ -44,8 +44,8 @@ A aplicação inicia-se com a Tela de Configurações, em que diz respeito a ent
 Desempenho
 
 	Para dados de desempenho, as informações gravadas na planilha foram:
--	Experimentador: refere-se a pessoa que esteve acompanhando a realização da tarefa.
--	Sujeito: refere-se a pessoa que foi submetida a realização da tarefa.
+-	Experimentador: refere-se à pessoa que esteve acompanhando a realização da tarefa.
+-	Sujeito: refere-se à pessoa que foi submetida a realização da tarefa.
 -	Meses: quantidade de meses do sujeito a partir da sua data de nascimento.
 -	Tentativa: quantidade de tentativas naquela jogada.
 -	Acerto(s): quantidade de tentativas em que houveram sucesso durante a jogada.
